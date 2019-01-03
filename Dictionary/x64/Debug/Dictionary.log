@@ -1,20 +1,5 @@
-﻿  Main.c
-d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(53): warning C4013: 'InitDictionary10000' non definita. Verrà considerata come esterna che restituisce un int.
-d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(97): warning C4047: '=': 'int' differisce da 'DictionaryElement *' nei livelli di riferimento indiretto
-d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(110): warning C4018: '<': errata corrispondenza tra signed e unsigned
-d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(180): warning C4477: 'printf': con la stringa di formato '%llu' è necessario un argomento di tipo 'unsigned __int64', ma il tipo dell'argomento variadic 1 è 'int'
-  d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(180): note: provare a usare '%u' nella stringa di formato
-  d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(180): note: provare a usare '%I32u' nella stringa di formato
-d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(187): warning C4477: 'printf': con la stringa di formato '%llu' è necessario un argomento di tipo 'unsigned __int64', ma il tipo dell'argomento variadic 1 è 'int'
-  d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(187): note: provare a usare '%u' nella stringa di formato
-  d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(187): note: provare a usare '%I32u' nella stringa di formato
-d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(209): warning C4477: 'printf': con la stringa di formato '%llu' è necessario un argomento di tipo 'unsigned __int64', ma il tipo dell'argomento variadic 1 è 'int'
-  d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(209): note: provare a usare '%u' nella stringa di formato
-  d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(209): note: provare a usare '%I32u' nella stringa di formato
-d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(213): warning C4477: 'printf': con la stringa di formato '%llu' è necessario un argomento di tipo 'unsigned __int64', ma il tipo dell'argomento variadic 1 è 'int'
-  d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(213): note: provare a usare '%u' nella stringa di formato
-  d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(213): note: provare a usare '%I32u' nella stringa di formato
-d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(235): warning C4477: 'printf': con la stringa di formato '%llu' è necessario un argomento di tipo 'unsigned __int64', ma il tipo dell'argomento variadic 1 è 'int'
-  d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(235): note: provare a usare '%u' nella stringa di formato
-  d:\thirdyears\c\codes\dictionary\dictionary\dictionary\main.c(235): note: provare a usare '%I32u' nella stringa di formato
+﻿  Dictionary.c
+d:\thirdyears\c\codes\dictionary\dictionary\dictionary\dictionary.c(15): warning C4020: 'InitDictionary10000': troppi parametri effettivi
+d:\thirdyears\c\codes\dictionary\dictionary\dictionary\dictionary.c(58): warning C4047: '=': 'int' differisce da 'DictionaryElement *' nei livelli di riferimento indiretto
+d:\thirdyears\c\codes\dictionary\dictionary\dictionary\dictionary.c(71): warning C4018: '<': errata corrispondenza tra signed e unsigned
   Dictionary.vcxproj -> D:\ThirdYears\C\Codes\Dictionary\Dictionary\x64\Debug\Dictionary.exe
